@@ -2,10 +2,4 @@
 NXP sensor fusion 方案学习
 
 
-
-
-
-课程视频：https://community.nxp.com/thread/465153
-
-NXP sensor fusion page主页：https://www.nxp.com/design/sensor-developer-resources/nxp-sensor-fusion:XTRSICSNSTLBOXX?tab=Documentation_Tab
-
+对应知乎笔记：https://zhuanlan.zhihu.com/p/68810539
